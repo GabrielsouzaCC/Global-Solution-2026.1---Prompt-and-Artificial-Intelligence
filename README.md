@@ -19,9 +19,15 @@ Sistema de monitoramento de missão espacial feito em Python (Google Colab). Ele
 
 > Substitua pelos seus prints reais (pelo menos 2): um com a missão em estado normal e outro com um alerta crítico + resposta da IA. Salve as imagens na pasta `assets/`.
 
-![Dados da missão - estado normal](assets/dados_missao.png)
+# Estado Normal
 
-![Alerta crítico + análise da IA](assets/alerta_critico.png)
+<img width="459" height="312" alt="image" src="https://github.com/user-attachments/assets/ada52a96-4053-487a-b32a-74f9af337a43" />
+
+
+
+# Simulação de Estado Critico 
+[<img width="556" height="404" alt="image" src="https://github.com/user-attachments/assets/604f229a-3dda-4fbf-a942-c04b7e14ec9d" />
+)
 
 ---
 
@@ -29,7 +35,8 @@ Sistema de monitoramento de missão espacial feito em Python (Google Colab). Ele
 
 Abra o notebook no Google Colab:
 
-[Acessar Notebook]( (https://colab.research.google.com/drive/1OlC3Y9S235mHM_fUfnjQ5WrPy73KIxMx?usp=drive_link))
+[Acessar Notebook]
+(https://colab.research.google.com/drive/1OlC3Y9S235mHM_fUfnjQ5WrPy73KIxMx?usp=drive_link)
 
 Execute as células **em ordem, de cima para baixo**. O Ollama e o modelo Llama 3.2 1B são instalados automaticamente na primeira célula — não é preciso conta nem chave de API.
 
