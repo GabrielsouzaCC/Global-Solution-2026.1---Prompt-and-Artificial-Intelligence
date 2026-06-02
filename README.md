@@ -29,7 +29,7 @@ Sistema de monitoramento de missão espacial feito em Python (Google Colab). Ele
 
 Abra o notebook no Google Colab:
 
-[Acessar Notebook](https://colab.research.google.com/drive/SEU_LINK_AQUI)
+[Acessar Notebook]((https://colab.research.google.com/drive/1OlC3Y9S235mHM_fUfnjQ5WrPy73KIxMx?usp=drive_link))
 
 Execute as células **em ordem, de cima para baixo**. O Ollama e o modelo Llama 3.2 1B são instalados automaticamente na primeira célula — não é preciso conta nem chave de API.
 
