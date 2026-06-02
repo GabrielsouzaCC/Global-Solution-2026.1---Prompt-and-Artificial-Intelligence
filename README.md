@@ -5,7 +5,7 @@ Sistema inteligente de monitoramento para o controle básico de uma missão espa
 **Integrantes:**
 - GABRIEL SOUZA  — RM: 571583
 - RAFAEL SÁ — RM: 569223
-- JOÃO MELO — RM: 571116 *(se trio)*
+- JOÃO MELO — RM: 571116 
 
 ---
 
