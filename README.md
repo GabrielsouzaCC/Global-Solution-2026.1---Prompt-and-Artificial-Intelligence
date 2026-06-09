@@ -1,4 +1,4 @@
-# Mission Control AI - [Sistema de monitoramento de missão espacial]
+# ATLAS - [Sistema de monitoramento de missão espacial]
 
 Sistema inteligente de monitoramento para o controle básico de uma missão espacial experimental — **GS 2026.1 / FIAP — Prompt and Artificial Intelligence**.
 
