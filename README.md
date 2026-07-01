@@ -17,7 +17,6 @@ Sistema de monitoramento de missão espacial feito em Python (Google Colab). Ele
 
 ## Demonstração
 
-> Substitua pelos seus prints reais (pelo menos 2): um com a missão em estado normal e outro com um alerta crítico + resposta da IA. Salve as imagens na pasta `assets/`.
 
 # Estado Normal
 
