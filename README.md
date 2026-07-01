@@ -17,7 +17,6 @@ Sistema de monitoramento de missão espacial feito em Python (Google Colab). Ele
 
 ## Demonstração
 
-
 # Estado Normal
 
 <img width="459" height="312" alt="image" src="https://github.com/user-attachments/assets/ada52a96-4053-487a-b32a-74f9af337a43" />
